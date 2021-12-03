@@ -1,0 +1,10 @@
+{
+  "name": "111-one-button-games-in-2021",
+  "version": "1.0.0",
+  "description": "111 one-button games in 2021",
+  "scripts": {
+    "generate": "node ./src/generator.js"
+  },
+  "author": "abagames",
+  "license": "MIT"
+}

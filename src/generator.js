@@ -5,6 +5,8 @@ const description = `# I have created 111 one-button games in 2021
 You can play all games in your browser (PC or mobile). Clink on the images below to play.
 
 All games are created with [crisp-game-lib](https://github.com/abagames/crisp-game-lib).
+
+If you are interested in how to make a one-button game, you may also be interested in this article: [How to realize various actions in a one-button game](https://github.com/abagames/various-actions-in-a-one-button-game/blob/main/README.md)
 `;
 
 /**

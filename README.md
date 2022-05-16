@@ -1,10 +1,10 @@
 # I have created 111 one-button games in 2021
 
-You can play all games in your browser (PC or mobile). Clink on the images below to play.
+You can play all games in your browser (PC or mobile). Click on the images below to play.
 
 All games are created with [crisp-game-lib](https://github.com/abagames/crisp-game-lib).
 
-If you are interested in how to make a one-button game, you may also be interested in this article: [How to realize various actions in a one-button game](https://github.com/abagames/various-actions-in-a-one-button-game/blob/main/README.md)
+If you are interested in how to make a one-button game, you may also be interested in this article: [How to realize various actions in a one-button game](https://dev.to/abagames/how-to-realize-various-actions-in-a-one-button-game-fak)
 
 <a href="https://abagames.github.io/crisp-game-lib-games/?rebirth"><img src="https://github.com/abagames/crisp-game-lib-games/raw/main/docs/rebirth/screenshot.gif" alt="REBIRTH" width="25%" loading="lazy"></a><a href="https://abagames.github.io/crisp-game-lib-games/?intow"><img src="https://github.com/abagames/crisp-game-lib-games/raw/main/docs/intow/screenshot.gif" alt="IN TOW" width="25%" loading="lazy"></a><a href="https://abagames.github.io/crisp-game-lib-games/?castn"><img src="https://github.com/abagames/crisp-game-lib-games/raw/main/docs/castn/screenshot.gif" alt="CAST N" width="25%" loading="lazy"></a><a href="https://abagames.github.io/crisp-game-lib-games/?bamboo"><img src="https://github.com/abagames/crisp-game-lib-games/raw/main/docs/bamboo/screenshot.gif" alt="BAMBOO" width="25%" loading="lazy"></a>
 

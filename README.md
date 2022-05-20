@@ -1,6 +1,6 @@
 # I have created 111 one-button games in 2021
 
-You can play all games in your browser (PC or mobile). Click on the images below to play.
+You can play all games in your browser (PC or mobile). Go to [my browser games page](http://www.asahi-net.or.jp/~cs8k-cyu/browser.html) and click `Play`.
 
 All games are created with [crisp-game-lib](https://github.com/abagames/crisp-game-lib).
 
